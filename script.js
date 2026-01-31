@@ -54,16 +54,15 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Babi please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "lovie are you sure?",
+    "sure na talaga??",
+    "sure ka na ayaw mo??",
+    "babi please...",
+    "pag-isipan mo pls",
+    "mahibi ako pag hindi",
+    "lovie pls huhu",
+    "sige, ill stop asking na",
+    "joke lang huhu please dali na babi! ❤️"
 ];
 
 let messageIndex = 0;
